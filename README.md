@@ -46,9 +46,11 @@ Next time you run it, make sure you select this
 ## Contact
 
 [Original dev] Gaztoof : You can contact me on [Telegram](https://t.me/Gaztoof), at t.me/@Gaztoof
+
 [Revamp dev] Skira : You can contact me via my [Discord server](https://discord.gg/6kmscdE8Qt) or [add me](https://discordapp.com/users/815509263149301780)
 
 Gaztoof YT : [Link](https://www.youtube.com/channel/UCB7rQNzTsaoS2-I0Z4byUxA)
+
 Skira's YT : [Link](https://www.youtube.com/@SKBLX)
 
 
