@@ -45,17 +45,11 @@ Next time you run it, make sure you select this
 
 ## Contact
 
-You can contact me on [Telegram](https://t.me/Gaztoof), at t.me/@Gaztoof
+[Original dev] Gaztoof : You can contact me on [Telegram](https://t.me/Gaztoof), at t.me/@Gaztoof
+[Revamp dev] Skira : You can contact me via my [Discord server](https://discord.gg/6kmscdE8Qt) or [add me](https://discordapp.com/users/815509263149301780)
 
-[This](https://www.youtube.com/channel/UCB7rQNzTsaoS2-I0Z4byUxA) is my YouTube channel.
-
-## Contributing
-
-1. Fork the project (<https://github.com/Gaztoof/GmodLuaInjector>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+Gaztoof YT : [Link](https://www.youtube.com/channel/UCB7rQNzTsaoS2-I0Z4byUxA)
+Skira's YT : [Link](https://www.youtube.com/@SKBLX)
 
 
 <!-- Markdown link & img dfn's -->
