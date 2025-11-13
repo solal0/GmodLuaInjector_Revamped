@@ -1,0 +1,20 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+C:\Users\Gamer\Documents\Solal (Save)\Le Grand Tri\Jeux\Garry's Mod\Mods\Triche\My Stuff\GmodLuaInjector - Skira's Revamp\GmodLuaInjector\GUI.h(399,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Gamer\Documents\Solal (Save)\Le Grand Tri\Jeux\Garry's Mod\Mods\Triche\My Stuff\GmodLuaInjector - Skira's Revamp\GmodLuaInjector\dllmain.cpp(309,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hooking.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  Utils.cpp
+C:\Users\Gamer\Documents\Solal (Save)\Le Grand Tri\Jeux\Garry's Mod\Mods\Triche\My Stuff\GmodLuaInjector - Skira's Revamp\GmodLuaInjector\Utils.cpp(125,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GmodLuaInjector.vcxproj -> C:\Users\Gamer\Documents\Solal (Save)\Le Grand Tri\Jeux\Garry's Mod\Mods\Triche\My Stuff\GmodLuaInjector - Skira's Revamp\x64\Debug\GmodLuaInjector.dll
