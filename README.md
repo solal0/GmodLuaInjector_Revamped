@@ -1,35 +1,22 @@
-# Garry's Mod Lua Executor / Scripthook
+# Garry's Mod Lua Executor
 
+![](https://imgur.com/NUmKTBP.png)
 
-This is both an executor and a scripthook for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
-
-You can easily steal any server's clientside/shared lua scripts, and at the same time, execute your own.
-
-Building in Release mode will disable the console, while building in Debug mode will also let you execute directly from the console.
-
-Note that for now, this only works in X64
-
-![](https://i.imgur.com/FmLXmCl.png)
+## Requirements
+- A legal copy of [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
+- At least the [minimum amount](https://pastebin.com/raw/fLbVkFjX) of braincells required
+- [GmodLuaInjector-Revamped.dll](https://github.com/solal0/GmodLuaInjector_Revamped/releases/tag/Release) (scroll down and download the dll)
+- Any program to inject the dll. I recommend using [Extreme Injector](https://github.com/master131/ExtremeInjector/releases/)
 
 ## Usage
+1. Run Garry's Mod in chromium x64 and join a private session or a public server (it doesn't matter)
+2. Once you joined, run your dll injector and if using Extreme Injector, select gmod.exe in the process list.
+3. Still, if using extreme injector, add GmodLuaInjector-Revamped.dll to the dll list by clicking Add DLL button.
+4. Inject the dll into gmod.exe and finally, if everything goes according to plan, pressing Insert in game will show a menu. Enjoy !
 
-You can either inject this using your own injector, or use the included injector.
-Simply put the .dll and Injector.exe in the same folder, and open Injector.exe
+## How to launch Gmod in x64 ?
 
-It should automatically inject the .DLL into the target process.
-
-
-If you did this right, this is what the Injector should be saying.
-
-![](https://i.imgur.com/vlnlGpb.png)
-
-Press INSERT to open the menu.
-
-## How to change architecture
-
-You don't know whether your game is in x86, or x64?
-
-Then it's simple, go to your Steam Library, right click on Garry's Mod, and click on Properties.
+It's simple, go to your Steam Library, right click on Garry's Mod, and click on Properties.
 
 ![](https://i.imgur.com/XIsyJKq.png)
 
@@ -42,6 +29,12 @@ That's it! Your game can now run in x64.
 Next time you run it, make sure you select this
 
 ![](https://i.imgur.com/OiN64SU.png)
+
+## Notes
+- To open the menu, press Insert
+- This executor only works in x64
+- If you want to edit the code or build it yourself, you can.
+- You can easily steal any server's clientside/shared lua scripts, and at the same time, execute your own.
 
 ## Contact
 
